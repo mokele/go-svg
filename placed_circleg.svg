@@ -4,5 +4,5 @@
 <svg width="500" height="500"
      xmlns="http://www.w3.org/2000/svg" version="1.1">
   <circle cx="250" cy="250" r="135"
-        fill="none" stroke="green" stroke-width="35"  />
+        fill="none" stroke="#66CD00" stroke-width="35"  />
 </svg>
