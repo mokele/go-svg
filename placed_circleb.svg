@@ -3,6 +3,6 @@
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="500" height="500"
      xmlns="http://www.w3.org/2000/svg" version="1.1">
-  <circle cx="250" cy="250" r="135"
-        fill="none" stroke="black" stroke-width="35"  />
+  <circle cx="250" cy="250" r="130"
+        fill="none" stroke="black" stroke-width="50"  />
 </svg>
